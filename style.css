@@ -1,0 +1,21 @@
+.navbar-navp{
+    text-align: center;
+}
+.text-justify{
+    margin:auto;
+}
+.btn-facebook {
+background: #3b5998;
+border-radius: 3px;
+color: #fff;
+padding: 8px 16px;
+}
+
+.btn-facebook:link, .btn-facebook:visited {
+color: #fff;
+}
+
+.btn-facebook:active, .btn-facebook:hover {
+background: #30477a;
+color: #fff;
+}
